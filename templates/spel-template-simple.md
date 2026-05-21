@@ -7,7 +7,7 @@
 |---|---|---|---|
 | A |❎|⏺️|❎|
 | B |🔲|❎|⏺️|
-| C |⏺️|🔲|🔲|
+| C |⏺️|🔲|❎|
 
 ### Logboek
 1. B2 - tomas
@@ -16,3 +16,6 @@
 4. B3 - epstein
 5. A1 - tomas
 6. A2 - epstein
+7. C3 - tomas
+
+epstein lose, tomas win!!!! yipeeeeeeeeeeeeeeeee
