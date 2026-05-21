@@ -5,10 +5,11 @@
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |🔲|🔲|🔲|
+| A |🔲|🔲|❎|
 | B |🔲|❎|🔲|
 | C |⏺️|🔲|🔲|
 
 ### Logboek
 1. B2 - tomas
 2. c1 - epstein
+3. A3 - tomas
