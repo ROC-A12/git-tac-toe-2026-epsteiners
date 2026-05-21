@@ -5,7 +5,7 @@
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |❎|🔲|❎|
+| A |❎|⏺️|❎|
 | B |🔲|❎|⏺️|
 | C |⏺️|🔲|🔲|
 
@@ -15,3 +15,4 @@
 3. A3 - tomas
 4. B3 - epstein
 5. A1 - tomas
+6. A2 - epstein
